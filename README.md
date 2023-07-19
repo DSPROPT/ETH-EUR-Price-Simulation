@@ -1,3 +1,4 @@
+![logo](Logo.png)
 # Simulação do Preço ETH/EUR
 
 Este repositório contém um script Python que simula o preço ETH/EUR utilizando o Movimento Browniano Geométrico. A simulação baseia-se em dados históricos recuperados do Kraken.
