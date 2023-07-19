@@ -1,6 +1,6 @@
 # Simulação do Preço ETH/EUR
 
-Este repositório contém um script Jupyter Notebook que simula o preço ETH/EUR utilizando o Movimento Browniano Geométrico. A simulação baseia-se em dados históricos recuperados do Kraken.
+Este repositório contém um script Python que simula o preço ETH/EUR utilizando o Movimento Browniano Geométrico. A simulação baseia-se em dados históricos recuperados do Kraken.
 
 ## Descrição
 
@@ -15,7 +15,7 @@ O script realiza o seguinte:
 
 1. Clone o repositório
 2. Certifique-se de ter as bibliotecas necessárias instaladas (`requests`, `numpy`, `pandas`, `matplotlib`)
-3. Execute o notebook Jupyter
+3. Execute o script Python
 
 ## Contribuições
 
